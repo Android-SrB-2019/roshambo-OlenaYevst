@@ -1,0 +1,15 @@
+<!--This assignment was done by Olena Y-->
+<!--Date: 2019-03-07-->
+
+<resources>
+    <string name="app_name">Assnmnt2</string>
+    <string name="PAPER">PAPER</string>
+    <string name="SCISSOR">SCISSOR</string>
+    <string name="your_move">your move</string>
+    <string name="games_move">games move</string>
+    <string name="win">WIN</string>
+    <string name="lose">LOSE</string>
+    <string name="draw">DRAW</string>
+    <string name="result">WIN/LOSE/DRAW</string>
+    <string name="ROCK">ROCK</string>
+</resources>
